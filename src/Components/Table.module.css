@@ -1,0 +1,35 @@
+.container {
+}
+
+.table {
+  font-size: 2rem;
+  margin: 5rem auto 0 auto;
+  border: 1px solid #111;
+  border-collapse: collapse;
+  background-color: #dbe4ff;
+}
+
+.table th {
+  border: 1px solid #111;
+  padding: 1rem;
+  width: 250px;
+}
+
+.table th:first-child {
+  width: 20px;
+}
+
+.table th:last-child {
+  width: 150px;
+}
+
+.table td {
+  border: 1px solid #111;
+  padding: 1rem;
+}
+.table tbody tr {
+  background-color: #dbe4ff;
+}
+.table tbody tr:nth-child(odd) {
+  background-color: #e7f5ff;
+}

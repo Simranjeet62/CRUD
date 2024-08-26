@@ -1,0 +1,23 @@
+.form {
+  display: flex;
+  gap: 2rem;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 2rem;
+  font-size: 2rem;
+}
+
+.formEl {
+  padding: 0.2rem 0.4rem 0.2rem 0.4rem;
+  border-radius: 0.5rem;
+  font-size: 1.4rem;
+  border: 1px solid #111;
+}
+
+.elContainer {
+  display: flex;
+  gap: 0.5rem;
+}

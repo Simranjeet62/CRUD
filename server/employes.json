@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "name": "mandeep",
+      "email": "mandeep@gamil.com",
+      "salary": "50000000",
+      "role": "Manager",
+      "id": "46d3"
+    },
+    {
+      "id": "fedc",
+      "name": "admin",
+      "email": "apple.jeet@gmail.com",
+      "salary": "534153",
+      "role": "Manager"
+    }
+  ]
+}
