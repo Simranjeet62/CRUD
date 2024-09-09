@@ -45,7 +45,7 @@ export default function AddEmp({ setTrigger }) {
             Email
           </label>
           <input
-            type="emil"
+            type="email"
             className={styles.formEl}
             placeholder="Email"
             id="email"
